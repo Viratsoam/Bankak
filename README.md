@@ -1,7 +1,7 @@
 # Bankak
 Compress | Resize | Images before uploading
 
-# Image-Compression Techniques | RESEARCH WORK
+# Image-Compression Techniques | Research work
   - To compress images and, consequently, reduce their sizes, you apply a transformation technique that removes the image parts with a negligible or low visual effect on the display quality. Image compression can be lossless or lossy.
   1. Lossless Compression :
     - Lossless compression of images results in no loss of pixel data, significantly reducing their sizes with no quality compromise in the display. The examples below demonstrate lossless image-compression in play.
